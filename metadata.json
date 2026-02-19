@@ -1,0 +1,8 @@
+{
+  "name": "Apple Infinity",
+  "description": "The quintillion-dollar future of computing. Experience the pinnacle of design, AI, and hardware innovation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
